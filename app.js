@@ -63,7 +63,6 @@ appRouter(app);
 
 app.listen(config.port);
 console.log('listening on port %s',config.port);
-console.log('yes')
 
 module.exports = app;
 
